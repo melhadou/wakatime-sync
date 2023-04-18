@@ -1,5 +1,5 @@
-name: 'wakatime-sync'
-description: 'Back up your wakatime sync to your gist'
+- name: wakatime-sync
+  uses: superman66/wakatime-sync@v1.0.0
 branding:
   icon: 'clipboard'
   color: 'blue'
